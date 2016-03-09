@@ -64,3 +64,8 @@ build/
 
 # Android Studio captures folder
 captures/
+
+
+#Java
+*.class
+out/
